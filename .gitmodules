@@ -58,9 +58,6 @@
 [submodule "extensions/xmlimporter"]
 	path = extensions/xmlimporter
 	url = git://github.com/symphonists/xmlimporter.git
-[submodule "workspace"]
-	path = workspace
-	url = git@github.com:ayellowraven/workspace.git
 [submodule "extensions/documenter"]
 	path = extensions/documenter
 	url = git://github.com/symphonists/documenter.git
@@ -70,3 +67,6 @@
 [submodule "extensions/order_entries"]
 	path = extensions/order_entries
 	url = git://github.com/nickdunn/order_entries.git
+[submodule "workspace"]
+	path = workspace
+	url = git@github.com:ayellowraven/workspace.git
